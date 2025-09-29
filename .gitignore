@@ -1,6 +1,7 @@
 # Thư mục node_modules
 node_modules/
-
+# Bỏ qua file .giti
+.gitignore
 # File môi trường
 .env
 
